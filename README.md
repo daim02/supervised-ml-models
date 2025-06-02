@@ -1,6 +1,6 @@
 # Supervised-ML-Models
 
-This project implements supervised machine learning pipelines for both **classification** and **regression** tasks using real-world datasets. The goal is to demonstrate data preprocessing, model training, hyperparameter tuning, and evaluation using Python's `scikit-learn` library.
+This project implements supervised machine learning pipelines for both classification and regression tasks using real-world datasets. The goal is to demonstrate data preprocessing, model training, hyperparameter tuning, and evaluation using Python's `scikit-learn` library.
 
 ---
 
