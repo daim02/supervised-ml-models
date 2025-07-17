@@ -6,7 +6,7 @@ This project implements supervised machine learning pipelines for both classific
 
 ## 🔍 Overview
 
-### 1. Classification — Titanic Dataset
+### 1. Classification - Titanic Dataset
 Predicts passenger survival using the Titanic dataset.
 
 - **Dataset:** `Titanic_Dataset_Classification.csv`
@@ -22,7 +22,7 @@ Predicts passenger survival using the Titanic dataset.
   - Confusion matrices
   - Bar chart comparison of model metrics
 
-### 2. Regression — California Housing Dataset
+### 2. Regression - California Housing Dataset
 Predicts median house values based on various features.
 
 - **Dataset:** `Housing_Dataset_Regression.csv`
